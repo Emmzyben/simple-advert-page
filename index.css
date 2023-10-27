@@ -1,0 +1,23 @@
+body{
+   background-image: linear-gradient( to right , black , rgb(28, 28, 78) , blue );
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   color: white;
+  
+}
+body > div{
+    width: 32%;
+    font-weight: 900;
+    padding: 20px;
+    height: 700px
+}
+ul li{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: larger;
+    line-height: 30px;
+   }
+h1{
+    font-size: 60px;
+}
